@@ -21,7 +21,6 @@ Blocking works by editing `/etc/hosts` to redirect distracting sites to `0.0.0.0
 | `blocker.py` | Blocks/unblocks social media sites. Stopping requires a **random 30min–7hr delay** to deter impulsive unblocking. |
 | `study_lock.py` | Generates an encrypted Screen Time PIN for iPhone/iPad/Mac. The session password is auto-generated, copied to clipboard, and displayed for only **10 seconds** before disappearing. |
 | `study_unlock.py` | Reveals the Screen Time PIN after a **random 30min–7hr delay** + correct session password. |
-| `job_access.py` | Opens seek.com and indeed.com for exactly **15 minutes**, then auto-reblocks. |
 
 ---
 
