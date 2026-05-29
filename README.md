@@ -2,7 +2,6 @@
 
 I have been addicted to social media since I was a kid. Even with built-in screen time limits, I found it too easy to cheat. I already knew the password, so I could just extend the limit whenever I wanted. So I built my own system with two components:
 
-Therefore, these are what I made: 
 1. **A study lock**: generates random encrypted Screen Time PINs for iPhone, iPad, and Mac. The PIN is only visible for 5 seconds, making it hard to memorise.
 2. **A web blocker**: blocks distracting sites at the OS level on Mac, with a random delay before you can unblock anything.
 
